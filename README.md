@@ -1,19 +1,22 @@
-# Quartz
+# IT - Knowledge Management
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+In this repository you will find everything regarding the IT situation of BEST Patras, including the
+following:
 
-1. Extremely fast natural-language search
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support and Admonition-style callouts
-5. Support for both Markdown Links and Wikilinks
+1. IT Coordinator
+   1. Scope
+   2. Jurisdiction
+   3. Tips
+   4. History
+2. Recurring Tasks
+   1. Server
+   2. Domain
+   3. SSL
+3. Projects
+   1. Website Reconstruction Project (WRP)
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+🔗 Get Started: https://bestpatras.github.io/docs/
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+<!-- ![Example Screenshot](./screenshot.png) -->
 
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+[Join the Discord Community](https://discord.gg/njvNeZmhY4)
