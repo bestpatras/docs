@@ -1,4 +1,4 @@
-baseURL = "https://bestpatras.github.io/"
+baseURL = "https://bestpatras.github.io/docs"
 languageCode = "el"
 relativeURLs = false
 disablePathToLower = true
